@@ -21,7 +21,7 @@ I only picked up surfing as a hobby recently, so I don't have the experience to 
 
 *Tools: Python, Pandas, Numpy, Matplotlib* 
 
-<img src="./files/img/Summer_vs_Winter.png" width="200"/> <img src="./files/img/Windrose.png" width="200" />
+<img src="./files/img/Summer_vs_Winter.png" width="220"/> <img src="./files/img/Windrose.png" width="220" />
 
 
 
