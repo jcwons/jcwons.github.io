@@ -12,7 +12,7 @@
   - did something
   - and more
 
-   **Something elese**
+   **Something else**
 
 ## Projects
 
@@ -21,8 +21,7 @@ I only picked up surfing as a hobby recently, so I don't have the experience to 
 
 *Tools: Python, Pandas, Numpy, Matplotlib* 
 
-![image info](./files/img/Summer_vs_Winter.pdf)
-![image info](./files/img/Windrose.pdf)
+<img src="./files/img/Summer_vs_Winter.png" width="350"/> <img src="./files/img/Windrose.png" width="350" />
 
 
 
