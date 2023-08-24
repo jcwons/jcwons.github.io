@@ -25,6 +25,11 @@ I designed a Python program to forecast constraints for upcoming surveys. The co
 
 *Tools: Fisher Forecast, High Performance Computing, Parallelisation, Optimisation, Advanced Statistics, Python, Cython, MPI4Py*
 
+### Stacked Regression for Housing Price Prediction
+In this project, I used US housing data to predict housing prices. I started with an extensive Explorative Data Analysis where I identified the important features, cleaned the data and created new more significant features from existing features. For the modelling, I used two different approaches Tensorflow decision trees and stacking regression models (GradientBoostingRegression, XGBR Regressor, LGBM Regressor, Lasso, Enet, Kernel Ridge Regressor). I reached an root-mean-square error of 0.07. ([notebook](https://github.com/jcwons/HousePrice_Regression/blob/main/eda-stacking-and-tensorflow-decision-trees.ipynb))
+
+*Tools: Python, Tensorflow, Matplotlib, Stacked Regression, Data Exploration, Data Visualisation, Lasso, XGBR, LGBM*
+
 ### Power BI Dashboard for E-Commerce Sales
 In this project, I used public data on sales from a US E-Commerce Company. After cleaning the data, I prepared a dashboard to present the data using Power BI. The dashboard shows YTD data using interactive filters and slicers. Different charts, tables and maps are used to highlight important features. The project can be found ([here](https://github.com/jcwons/PowerBI_ECommerce)).
 
