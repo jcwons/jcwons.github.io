@@ -25,5 +25,12 @@ I designed a Python program to forecast constraints for upcoming surveys. The co
 
 *Tools: Fisher Forecast, High Performance Computing, Parallelisation, Optimisation, Advanced Statistics, Python, Cython, MPI4Py*
 
+### Power BI Dashboard for E-Commerce Sales
+In this project, I used public data on sales from a US E-Commerce Company. After cleaning the data, I prepared a dashboard to present the data using Power BI. The dashboard shows YTD data using interactive filters and slicers. Different charts, tables and maps are used to highlight important features. The project can be found ([here](https://github.com/jcwons/PowerBI_ECommerce)).
+
+*Tools: PowerBI, SQL, Data Cleaning*
+
+<img src="./files/img/Dashboard_Ecommerce.png" width="320" />
+
 
 
