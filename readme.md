@@ -53,10 +53,10 @@
 <!-- Your Markdown content goes here -->
 
 <!-- Example: Embedding an image with blur effect and overlay text -->
-<div class="image-container">
-    <img src="./files/img/TS_Forecast.png" alt="Image Description">
-    <div class="overlay-text">Words on the blurred image</div>
-</div>
+<a href="https://jcwons.github.io/github-blogs/2023/11/14/Embarking-on-the-Chatbot-Journey-My-First-LLM-Project-with-Google-Palm.html" target="_blank" rel="noopener noreferrer" class="image-container">
+    <img src="path/to/your/image.jpg" alt="Image Description">
+    <div class="overlay-text"> Link to the project </div>
+</a>
 
 </body>
 </html>
