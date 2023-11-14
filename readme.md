@@ -8,7 +8,6 @@
 
 ## Test
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -36,7 +35,7 @@
             top: 50%;
             left: 50%;
             transform: translate(-50%, -50%);
-            color: white;
+            color: black;
             font-size: 20px;
             font-weight: bold;
             text-align: center;
@@ -56,7 +55,7 @@
 <!-- Example: Embedding an image with blur effect and overlay text -->
 <div class="image-container">
     <img src="./files/img/TS_Forecast.png" alt="Image Description">
-    <div class="overlay-text">My skills are great</div>
+    <div class="overlay-text">Words on the blurred image</div>
 </div>
 
 </body>
