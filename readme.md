@@ -5,7 +5,7 @@
 ## Education
 
  | Ph.D. Physics | The University of New South Wales, Sydney (_November 2023_) |
- | M.S. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_) |
+ | M.Sc. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_) |
 
 ## Projects
 
