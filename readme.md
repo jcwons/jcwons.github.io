@@ -8,7 +8,7 @@
 
 ## Projects
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
-<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 15px; margin-bottom: 3px;">
   <img src="./files/img/Summer_vs_Winter.png" width="300" heigth="300"/>
   <p>
     <span style="font-size: 20px;"> <u>NYC Taxi Insights Unraveling Patterns and Optimization Strategies </u> </span> <br>
