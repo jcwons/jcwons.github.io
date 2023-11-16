@@ -29,7 +29,6 @@
       <img src="/files/img/average_wait_location_top.png" alt="Description" class="blurry-image" width="300" height="200">
 </a>
 </body>
-</html>
 <p>
   <strong> Objective: </strong> Maximise the revenue for a taxi company operating in NYC. <br>
   <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.</p>
