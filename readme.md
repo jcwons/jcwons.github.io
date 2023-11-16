@@ -8,7 +8,7 @@
 
 ## Projects
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
-<div style="display: flex; align-items: center; gap: 15px;">
+<div style="display: flex; align-items: center; gap: 15px;" style="margin-bottom: 1px;">
   <img src="./files/img/Summer_vs_Winter.png" width="300" heigth="300"/>
   <p>
     <span style="font-size: 20px;">NYC Taxi Insights Unraveling Patterns and Optimization Strategies </span> <br>
@@ -16,7 +16,10 @@
     <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.
   </p>
 </div>
-**Techniques:** Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
+
+<div>
+<strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
+</div>
 
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
 
