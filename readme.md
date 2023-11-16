@@ -22,7 +22,7 @@
 <p align="left">
   <img src="/files/img/BayOp.png" alt="Image Description" width="300" height="290" style="float:left; margin-right:10px;">
    <strong> Objective: </strong> Improve the optimisation of likelihood functions with multiple maxima. <br>
-  <strong> Results: </strong> Using Machine Learning, I was able to reduce the number of samples to find the global maximum by a factor of 100.<br>
+  <strong> Results: </strong> Using Machine Learning, I was able to reduce the number of samples to find the global maximum by a factor of 100 compared to previous results.<br>
  <strong>Techniques:</strong> I wrote a Gaussian Process Regression and Bayesian Optimisation algorithm in Fortran to efficiently minimise a given likelihood function. Using a High-Performance Computing server, I parallelised the code to run even faster. <a href="https://arxiv.org/abs/2112.08571">Click here to read the publciation</a>.
 </p>
 
