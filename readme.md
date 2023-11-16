@@ -22,7 +22,7 @@
           .image-container img {
               display: block;
               width: 100%;
-              max-width: 300px;
+              max-width: 3000px;
               height: auto;
               filter: blur(0);
               transition: filter 0.3s ease-in-out;
