@@ -63,10 +63,16 @@
   </html>
   
   
-  <p>Your text goes here.</p>
+  <p>
+    **Objective**: Maximise revenue for a taxi company in NYC.
+    
+    **Results:** By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased on average by 20%. Leading to a revenue increase of 20% for the company.
+  </p>
 </div>
+**Techniques:** Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
 
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
+
 **Objective**: Maximise revenue for a taxi company in NYC.
 
 **Results:** By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased on average by 20%. Leading to a revenue increase of 20% for the company.
