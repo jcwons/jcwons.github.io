@@ -1,4 +1,4 @@
-# Data Scientist
+e# Data Scientist
 
 ### Technical Skills: Python, SQL, Fortran, Pandas, numpy, sklearn
 
@@ -8,7 +8,7 @@
 
 ## Projects
 
-### <u> [NYC Taxi Insights: Unraveling Patterns and Optimization Strategies](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html) </u>
+### [<u> NYC Taxi Insights: Unraveling Patterns and Optimization Strategies </u>](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html)
 <div style="margin-bottom: 2px"> <strong>Tools used:</strong> Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
 <p align="left">
   <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="290" style="float:left; margin-right:10px;">
