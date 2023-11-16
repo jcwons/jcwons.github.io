@@ -9,6 +9,7 @@
 ## Projects
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
 <div style="display: flex; align-items: center; gap: 15px;">
+  <html lang="en">
   <head>
     <style>
         .image-container {
@@ -46,7 +47,7 @@
             opacity: 1;
         }
     </style>
-</head>
+  </head>
   <body>
   
   <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
