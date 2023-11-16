@@ -8,7 +8,7 @@
 
 ## Projects
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
-<div style="margin-bottom: 2px" Tools used: Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
+<div style="margin-bottom: 2px"> Tools used: Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
 <div style="display: flex; align-items: center; gap: 15px;">
 <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
       <img src="/files/img/average_wait_location_top.png" alt="Description" class="blurry-image" width="300" height="200">
