@@ -8,10 +8,10 @@
 
 ## Projects
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
-<div style="display: flex; align-items: center; gap: 15px;" style="margin-bottom: 1px;">
+<div style="display: flex; align-items: center; gap: 15px;" style="margin-bottom: 20px;">
   <img src="./files/img/Summer_vs_Winter.png" width="300" heigth="300"/>
   <p>
-    <span style="font-size: 20px;">NYC Taxi Insights Unraveling Patterns and Optimization Strategies </span> <br>
+    <span style="font-size: 20px;"> <u>NYC Taxi Insights Unraveling Patterns and Optimization Strategies </u> </span> <br>
     <strong> Objective: </strong> Maximise revenue for a taxi company in NYC. <br>
     <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.
   </p>
