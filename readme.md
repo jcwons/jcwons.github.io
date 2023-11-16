@@ -9,61 +9,30 @@
 ## Projects
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
 <div style="display: flex; align-items: center; gap: 15px;">
-  <html lang="en">
-    <head>
+  
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
     <style>
-        .image-container {
-            position: relative;
-            display: inline-block;
-            overflow: hidden;
-        }
-
         .blurry-image {
-            display: block;
-            width: 100%;
-            height: auto;
             filter: blur(0);
             transition: filter 0.3s ease-in-out;
         }
 
-        .image-container:hover .blurry-image {
+        .blurry-image:hover {
             filter: blur(5px); /* Adjust the blur amount as needed */
         }
-
-        .overlay-text {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            color: black;
-            font-size: 16px;
-            font-weight: bold;
-            text-align: center;
-            opacity: 0;
-            transition: opacity 0.3s ease-in-out;
-        }
-
-        .image-container:hover .overlay-text {
-            opacity: 1;
-        }
     </style>
-  </head>
-  <body>
-  <div class="image-container" width="300">
-  <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
+</head>
+<body>
+<a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
       <img src="/files/img/average_wait_location_top.png" alt="Description" class="blurry-image" width="300" height="200">
-  <div class="overlay-text"> Click here for more details on the project. </div>
-  </a>
-  </div>
-  
-  </body>
-  </html>
-  <p>
-    <strong> Objective: </strong> Maximise the revenue for a taxi company operating in NYC. <br>
-    <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.</p>
+</a>
+</body>
+</html>
+<p>
+  <strong> Objective: </strong> Maximise the revenue for a taxi company operating in NYC. <br>
+  <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.</p>
 </div>
 <p style="margin-top: -25px;">
 <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
