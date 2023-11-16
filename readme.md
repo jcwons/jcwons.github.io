@@ -1,4 +1,4 @@
-e# Data Scientist
+# Data Scientist
 
 ### Technical Skills: Python, SQL, Fortran, Pandas, numpy, sklearn
 
