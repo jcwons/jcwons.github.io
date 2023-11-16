@@ -7,6 +7,8 @@
 - M.S. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_)
 
 ## Projects
+### <a href=https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html" style="text-decoration: underline; color: black;"NYC Taxi Insights: Unraveling Patterns and Optimization Strategies</a>
+
 
 ### [<span style="color: black;"><u> NYC Taxi Insights: Unraveling Patterns and Optimization Strategies </u></span>](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html)
 <div style="margin-bottom: 2px"> <strong>Tools used:</strong> Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
