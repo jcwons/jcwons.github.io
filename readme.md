@@ -8,6 +8,27 @@
 
 ## Projects
 
+<style>
+  .two-column-layout {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+</style>
+
+<div class="two-column-layout">
+  <div class="column">
+    ![Image Alt Text](/files/img/average_wait_location_top.png)
+  </div>
+  <div class="column">
+    Your text goes here.
+  </div>
+</div>
+
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
 **Objective**: Maximise revenue for a taxi company in NYC.
 
