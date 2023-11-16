@@ -15,8 +15,8 @@
   }
 
   .column {
-    flex: 45%;
-    max-width: 50%;
+    flex: 40%;
+    max-width: 40%;
   }
 </style>
 
