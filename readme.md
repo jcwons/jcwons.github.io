@@ -9,19 +9,44 @@
 ## Projects
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
 <div style="display: flex; align-items: center; gap: 15px;">
-  <html lang="en">
   <head>
-      <style>
-          .blurry-image {
-              filter: blur(0);
-              transition: filter 0.3s ease-in-out;
-          }
-  
-          .blurry-image:hover {
-              filter: blur(5px); /* Adjust the blur amount as needed */
-          }
-      </style>
-  </head>
+    <style>
+        .image-container {
+            position: relative;
+            display: inline-block;
+            overflow: hidden;
+        }
+
+        .blurry-image {
+            display: block;
+            width: 100%;
+            height: auto;
+            filter: blur(0);
+            transition: filter 0.3s ease-in-out;
+        }
+
+        .image-container:hover .blurry-image {
+            filter: blur(5px); /* Adjust the blur amount as needed */
+        }
+
+        .overlay-text {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: black;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            opacity: 0;
+            transition: opacity 0.3s ease-in-out;
+        }
+
+        .image-container:hover .overlay-text {
+            opacity: 1;
+        }
+    </style>
+</head>
   <body>
   
   <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
