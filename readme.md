@@ -8,6 +8,7 @@
 
 ## Projects
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
+*Tools used: Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn*
 <div style="display: flex; align-items: center; gap: 15px;">
   
   <head>
