@@ -6,7 +6,7 @@
 - Ph.D. Physics | The University of New South Wales, Sydney (_June 2023_)
 - M.S. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_)
 
-## Test
+## Projects
 
 <html lang="en">
 <head>
@@ -53,15 +53,14 @@
 <!-- Your Markdown content goes here -->
 
 <!-- Example: Embedding an image with blur effect and overlay text -->
-<a href="https://jcwons.github.io/github-blogs/2023/11/14/Embarking-on-the-Chatbot-Journey-My-First-LLM-Project-with-Google-Palm.html" target="_blank" rel="noopener noreferrer" class="image-container">
-    <img src="/files/img/TS_Forecast.png" alt="Image Description">
-    <div class="overlay-text"> Link to the project </div>
+<a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html" target="_blank" rel="noopener noreferrer" class="image-container">
+    <img src="/files/img/average_wait_location_top.png" alt="Image Description">
+    <div class="overlay-text"> Click here for more details on the project. </div>
 </a>
 
 </body>
 </html>
 
-## Projects
 
 ### **Time Series Forecast for Store Sales**
 I used **sales data from a store to forecast future sales** using previous data and metadata. I used A/B testing to determine whether holidays and natural disasters affected store sales. Then I compared SARIMA and XGBoost models to forecast the sales, where XGBoost performed the best results. **Future sale numbers were predicted with an 85% accuracy including seasonal trends**.  ([GitHub Repo]([https://github.com/jcwons/BayOp](https://github.com/jcwons/TimeSeriesForecast/))).
