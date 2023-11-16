@@ -20,9 +20,12 @@
 <p style="margin-top: -25px;">
 <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
 </p>
+
 <p align="left">
   <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" style="float:left; margin-right:10px;">
-  Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.
+   <strong> Objective: </strong> Use the NYC taxi trip data to maximise the revenue for a taxi company operating in NYC. <br>
+  <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.<br>
+ <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.     
 </p>
 
       
