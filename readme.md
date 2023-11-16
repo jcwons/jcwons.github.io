@@ -52,11 +52,12 @@
     </style>
   </head>
   <body>
-  
+  <div class="image-container">
   <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
       <img src="/files/img/average_wait_location_top.png" alt="Description" class="blurry-image" width="300" height="200">
   <div class="overlay-text"> Click here for more details on the project. </div>
   </a>
+  </div>
   
   </body>
   </html>
