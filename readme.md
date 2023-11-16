@@ -10,7 +10,10 @@
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
 <div style="display: flex; align-items: center; gap: 15px;">
   <html lang="en">
-  <head>
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
     <style>
         .image-container {
             position: relative;
