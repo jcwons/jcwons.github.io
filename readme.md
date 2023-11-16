@@ -18,7 +18,7 @@
 </p>
 
 ### [<span style="color: black;"> Bayesian Optimisiation for Likelihood Sampling</span>](https://arxiv.org/abs/2112.08571)
-### **Bayesian Optimisiation for Likelihood Sampling**
+
 <div style="margin-bottom: 0"> <em><strong>Tools used:</strong> Bayesian Optimisation, Gaussian Progress Regression, High-Performance Computing, Bayesian Statistics, Fortran, Python, Bash, git </em></div>
 <p align="left">
   <img src="/files/img/BayOp.png" alt="Image Description" width="300" height="300" style="float:left; margin-right:10px;">
