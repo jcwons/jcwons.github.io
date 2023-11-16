@@ -12,7 +12,7 @@
   <html lang="en">
   <head>
       <meta charset="UTF-8">
-      <meta name="viewport" content="width=300, initial-scale=1.0">
+      <meta name="viewport" content="width=300, height=250">
       <style>
           .image-container {
               position: relative;
