@@ -17,8 +17,6 @@
           .image-container {
               position: relative;
               display: inline-block;
-              width: 2000px; /* Adjust the width as needed */
-              height: 2000px; /* Adjust the height as needed */
           }
   
           .image-container img {
