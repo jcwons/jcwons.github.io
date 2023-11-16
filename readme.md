@@ -1,15 +1,25 @@
 # Data Scientist
 
 ### Technical Skills: Python, SQL, Fortran, Pandas, numpy, sklearn
+
 | No Header 1 | No Header 2 | No Header 3 |
 |-------------|-------------|-------------|
 | Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
 | Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
 ## Education
+
 | test | test |
 |:-------------|:------------------|
  | Ph.D. Physics | The University of New South Wales, Sydney (_June 2023_) |
  | M.S. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_) |
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 ## Projects
 
