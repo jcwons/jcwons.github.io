@@ -21,7 +21,7 @@
 <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
 </p>
 <p align="left">
-  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="200" style="float:left; margin-right:10px;">
+  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" style="float:left; margin-right:10px;">
   Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.Your text here. It will wrap around the image.
 </p>
 
