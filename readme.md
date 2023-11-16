@@ -9,20 +9,8 @@
 ## Projects
 ### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
 <div style="margin-bottom: 2px"> Tools used: Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
-<div style="display: flex; align-items: center; gap: 15px;">
-<a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">
-      <img src="/files/img/average_wait_location_top.png" alt="Description" class="blurry-image" width="300" height="200">
-</a>
-<p>
-  <strong> Objective: </strong> Use the NYC taxi trip data to maximise the revenue for a taxi company operating in NYC. <br>
-  <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.</p>
-</div>
-<p style="margin-top: -25px;">
-<strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
-</p>
-
 <p align="left">
-  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="350" style="float:left; margin-right:10px;">
+  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="300" style="float:left; margin-right:10px;">
    <strong> Objective: </strong> Use the NYC taxi trip data to maximise the revenue for a taxi company operating in NYC. <br>
   <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.<br>
  <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.     
