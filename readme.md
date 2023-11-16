@@ -7,7 +7,7 @@
 - M.S. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_)
 
 ## Projects
-### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
+### NYC Taxi Insights: Unraveling Patterns and Optimization Strategies
 <div style="display: flex; align-items: center; gap: 15px; margin-bottom: -10px;">
   <img src="./files/img/Summer_vs_Winter.png" width="300" heigth="300"/>
   <p>
@@ -15,6 +15,7 @@
     <strong> Objective: </strong> Maximise revenue for a taxi company in NYC. <br>
     <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.
   </p>
+  <p>sad</p>
 </div>
 
 <div>
