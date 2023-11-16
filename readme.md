@@ -11,7 +11,7 @@
 ### [<span style="color: black;"> NYC Taxi Insights: Unraveling Patterns and Optimization Strategies</span>](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html)
 <div style="margin-bottom: 0"> <em><strong>Tools used:</strong> Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </em></div>
 <p align="left">
-  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="290" style="float:left; margin-right:10px;">
+  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="300" style="float:left; margin-right:10px;">
    <strong> Objective: </strong> Use the NYC taxi trip data to maximise the revenue for a taxi company operating in NYC. <br>
   <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.<br>
  <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost. <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">Click here to learn more</a>.
@@ -20,15 +20,11 @@
 ### **Bayesian Optimisiation for Likelihood Sampling of Cosmological Data**
 <div style="margin-bottom: 0"> <em><strong>Tools used:</strong> Bayesian Optimisation, Gaussian Progress Regression, High-Performance Computing, Bayesian Statistics, Fortran, Python, Bash, git </em></div>
 <p align="left">
-  <img src="/files/img/BayOp.png" alt="Image Description" width="300" height="290" style="float:left; margin-right:10px;">
+  <img src="/files/img/BayOp.png" alt="Image Description" width="300" height="300" style="float:left; margin-right:10px;">
    <strong> Objective: </strong> Improve the optimisation of likelihood functions with multiple maxima. <br>
   <strong> Results: </strong> Using Machine Learning, I reduced the number of samples required to find the global maximum by a factor of 100 compared to previous results.<br>
- <strong>Techniques:</strong> I wrote a Gaussian Process Regression and Bayesian Optimisation algorithm in Fortran to efficiently minimise a given likelihood function. Using a High-Performance Computing server, I parallelised the code to run even faster. <a href="https://arxiv.org/abs/2112.08571">Click here to read the publciation</a>.
+ <strong>Techniques:</strong> I wrote a Gaussian Process Regression and Bayesian Optimisation algorithm in Fortran to efficiently minimise a given likelihood function. Using a High-Performance Computing server, I parallelised the code to run even faster. <a href="https://arxiv.org/abs/2112.08571">Click here for the publciation</a>.
 </p>
-
-In this project, I changed the Markov Chain Monte Carlo (MCMC) Sampler of the current state-of-the-art likelihood sampler in cosmology to Bayesian Optimisation. This allows for sampling complicated likelihood functions that have multiple local maxima. With the MCMC sampling method, the analysis was very cumbersome and took several weeks to complete. **The new algorithm reduced the runtime down to hours and improved the accuracy by 20%**. The project was published in a top-tier journal ([Publication](https://iopscience.iop.org/article/10.1088/1475-7516/2022/03/036)).
-
-*Tools: Bayesian Optimisation, Gaussian Progress Regression, High-Performance Computing, Bayesian Statistics, Fortran, Python, Bash, git*
 
 ### **Time Series Forecast for Store Sales**
 I used **sales data from a store to forecast future sales** using previous data and metadata. I used A/B testing to determine whether holidays and natural disasters affected store sales. Then I compared SARIMA and XGBoost models to forecast the sales, where XGBoost performed the best results. **Future sale numbers were predicted with an 85% accuracy including seasonal trends**.  ([GitHub Repo]([https://github.com/jcwons/BayOp](https://github.com/jcwons/TimeSeriesForecast/))).
