@@ -12,11 +12,10 @@
   .two-column-layout {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px;
   }
 
   .column {
-    flex: 50%;
+    flex: 45%;
     max-width: 50%;
   }
 </style>
