@@ -8,6 +8,17 @@
 
 ## Projects
 
+<div style="display: flex; width: 100%;">
+  <div style="flex: 0 0 45%; max-width: 45%; margin-right: 10px;">
+    <img src="/files/img/average_wait_location_top.png" alt="Image Description">
+  </div>
+  <div style="flex: 0 0 45%; max-width: 45%; margin-left: 10px;">
+    Your text goes here.
+  </div>
+</div>
+
+
+
 <style>
   .two-column-layout {
     display: flex;
