@@ -1,6 +1,6 @@
 # Data Scientist
 
-### Technical Skills: Python, SQL, Fortran, Pandas, numpy, sklearn
+### Technical Skills: *Python, SQL, Pytorch, Langchain, LLM, NLP, XGBoost, git, bash, HPC*
 
 ## Education
 
