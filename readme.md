@@ -37,6 +37,32 @@
 <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
 </p>
 
+[![Image Description](/files/img/average_wait_location_top.png){: .hover-image }]([https://your-link.com](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html))
+
+<style>
+  .hover-image {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+  }
+
+  .hover-image:hover::after {
+    content: "Click me!";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+</style>
+
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
 
 **Objective**: Maximise revenue for a taxi company in NYC.
