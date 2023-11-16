@@ -12,6 +12,7 @@
   .two-column-layout {
     display: flex;
     flex-wrap: wrap;
+    gap: 20px;
   }
 
   .column {
