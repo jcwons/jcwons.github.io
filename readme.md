@@ -17,18 +17,6 @@
  <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost. <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">Click here to learn more</a>.
 </p>
 
-      
-### [NYC Taxi Insights: Unraveling Patterns and Optimization Strategies](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html)
-<div style="margin-bottom: 2px"> <strong>Tools used:</strong> Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
-<p align="left">
-  <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="280" style="float:left; margin-right:10px;">
-   <strong> Objective: </strong> Use the NYC taxi trip data to maximise the revenue for a taxi company operating in NYC. <br>
-  <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.<br>
- <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.     
-</p>
-
-
-
 ### **Time Series Forecast for Store Sales**
 I used **sales data from a store to forecast future sales** using previous data and metadata. I used A/B testing to determine whether holidays and natural disasters affected store sales. Then I compared SARIMA and XGBoost models to forecast the sales, where XGBoost performed the best results. **Future sale numbers were predicted with an 85% accuracy including seasonal trends**.  ([GitHub Repo]([https://github.com/jcwons/BayOp](https://github.com/jcwons/TimeSeriesForecast/))).
 
