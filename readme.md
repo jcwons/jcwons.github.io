@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Portfolio
 
 ### Technical Skills: *Python, SQL, Pytorch, Langchain, LLM, NLP, XGBoost, git, bash, HPC*
 
