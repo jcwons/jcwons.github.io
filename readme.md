@@ -9,7 +9,60 @@
 ## Projects
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="/files/img/average_wait_location_top.png" alt="Image Alt Text" width="150" height="150">
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=520, initial-scale=1.0">
+      <style>
+          .image-container {
+              position: relative;
+              display: inline-block;
+          }
+  
+          .image-container img {
+              display: block;
+              width: 100%;
+              height: auto;
+              filter: blur(0);
+              transition: filter 0.3s ease-in-out;
+          }
+  
+          .image-container:hover img {
+              filter: blur(5px);
+          }
+  
+          .overlay-text {
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              color: black;
+              font-size: 20px;
+              font-weight: bold;
+              text-align: center;
+              opacity: 0;
+              transition: opacity 0.3s ease-in-out;
+          }
+  
+          .image-container:hover .overlay-text {
+              opacity: 1;
+          }
+      </style>
+  </head>
+  <body>
+  
+  <!-- Your Markdown content goes here -->
+  
+  <!-- Example: Embedding an image with blur effect and overlay text -->
+  <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html" target="_blank" rel="noopener noreferrer" class="image-container">
+      <img src="/files/img/average_wait_location_top.png" alt="Image Description">
+      <div class="overlay-text"> Click here for more details on the project. </div>
+  </a>
+  
+  </body>
+  </html>
+  
+  
   <p>Your text goes here.</p>
 </div>
 
