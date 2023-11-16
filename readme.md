@@ -26,6 +26,7 @@
   
   <a href="https://your-link.com">
       <img src="/files/img/average_wait_location_top.png" alt="Image Description" class="blurry-image" width="300" height="200">
+  <div class="overlay-text"> Click here for more details on the project. </div>
   </a>
   
   </body>
