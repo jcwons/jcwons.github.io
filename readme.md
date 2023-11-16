@@ -17,11 +17,13 @@
           .image-container {
               position: relative;
               display: inline-block;
+              width: 400px; /* Adjust the width as needed */
+              height: 300px; /* Adjust the height as needed */
           }
   
           .image-container img {
               display: block;
-              width: 500px;
+              width: 100%;
               height: auto;
               filter: blur(0);
               transition: filter 0.3s ease-in-out;
