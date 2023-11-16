@@ -4,5 +4,7 @@ description: <a href="https://www.linkedin.com/in/julius-wons/">LinkedIn </a> | 
 
 
 #show_downloads: true
-plugins: jekyll-include-cache
+plugins:
+  - jekyll-include-cache
+
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
