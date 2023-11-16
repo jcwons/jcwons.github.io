@@ -56,7 +56,7 @@
   <!-- Example: Embedding an image with blur effect and overlay text -->
   <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html" target="_blank" rel="noopener noreferrer" class="image-container">
       <img src="/files/img/average_wait_location_top.png" alt="Image Description">
-      <div class="overlay-text"> Click here for more details on the project. </div>
+      <div class="overlay-text"> For more details on the project <u>click here</u> . </div>
   </a>
   
   </body>
