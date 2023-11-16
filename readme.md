@@ -11,8 +11,8 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="./files/img/Summer_vs_Winter.png" width="220" heigth="220"/>
   <p>
-    <b>Objective</b>: Maximise revenue for a taxi company in NYC.
-    <b>Results:</b> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased on average by 20%. Leading to a revenue increase of 20% for the company.
+    <strong> Objective </strong>: Maximise revenue for a taxi company in NYC.
+    <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased on average by 20%. Leading to a revenue increase of 20% for the company.
   </p>
 </div>
 
