@@ -7,15 +7,15 @@
 - M.S. Physics | Karlruprecht Universität Heidelberg, Germany (_May 2019_)
 
 ## Projects
-
+### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
 <div style="display: flex; align-items: center; gap: 15px;">
   <img src="./files/img/Summer_vs_Winter.png" width="300" heigth="300"/>
   <p>
-    <strong> Objective </strong>: Maximise revenue for a taxi company in NYC. <br>
+    <h4> NYC Taxi Insights Unraveling Patterns and Optimization Strategies </h4> <br>
+    <strong> Objective: </strong> Maximise revenue for a taxi company in NYC. <br>
     <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.
   </p>
 </div>
-
 **Techniques:** Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
 
 ### NYC Taxi Insights Unraveling Patterns and Optimization Strategies
