@@ -9,7 +9,7 @@
 ## Projects
 
 <div style="display: flex; align-items: center; gap: 15px;">
-  <img src="./files/img/Summer_vs_Winter.png" width="350" heigth="350"/>
+  <img src="./files/img/Summer_vs_Winter.png" width="300" heigth="300"/>
   <p>
     <strong> Objective </strong>: Maximise revenue for a taxi company in NYC. <br>
     <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.
