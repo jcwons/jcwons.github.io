@@ -11,56 +11,25 @@
 <div style="display: flex; align-items: center; gap: 15px;">
   <html lang="en">
   <head>
-      <meta charset="UTF-8">
-      <meta name="viewport" content="width=200000px, initial-scale=1.0">
       <style>
-          .image-container {
-              position: relative;
-              display: inline-block;
-          }
-  
-          .image-container img {
-              display: block;
-              width: 100%;
-              height: auto;
+          .blurry-image {
               filter: blur(0);
               transition: filter 0.3s ease-in-out;
           }
   
-          .image-container:hover img {
-              filter: blur(5px);
-          }
-  
-          .overlay-text {
-              position: absolute;
-              top: 50%;
-              left: 50%;
-              transform: translate(-50%, -50%);
-              color: black;
-              font-size: 20px;
-              font-weight: bold;
-              text-align: center;
-              opacity: 0;
-              transition: opacity 0.3s ease-in-out;
-          }
-  
-          .image-container:hover .overlay-text {
-              opacity: 1;
+          .blurry-image:hover {
+              filter: blur(5px); /* Adjust the blur amount as needed */
           }
       </style>
   </head>
   <body>
   
-  <!-- Your Markdown content goes here -->
-  
-  <!-- Example: Embedding an image with blur effect and overlay text -->
-  <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html" target="_blank" rel="noopener noreferrer" class="image-container">
-      <img src="/files/img/average_wait_location_top.png" alt="Image Description">
-      <div class="overlay-text"> For more details on the project <u>click here</u> . </div>
+  <a href="https://your-link.com">
+      <img src="/files/img/average_wait_location_top.png" alt="Image Description" class="blurry-image" width="300" height="200">
   </a>
   
   </body>
-  </html>  
+  </html>
   <p>
     <strong> Objective: </strong> Maximise the revenue for a taxi company operating in NYC. <br>
     <strong> Results: </strong> By minimising the wait time of drivers through smart routing after the dropoff, the revenue per driver can be increased leading to a revenue increase of 20% for the company.</p>
