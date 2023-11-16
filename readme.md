@@ -15,6 +15,7 @@
 
 **Techniques**: Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost.
 
+*tools*
 <html lang="en">
 <head>
     <meta charset="UTF-8">
