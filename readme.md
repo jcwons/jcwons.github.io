@@ -9,7 +9,7 @@
 ## Projects
 
 ### [<span style="color: black;"> NYC Taxi Insights: Unraveling Patterns and Optimization Strategies</span>](https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html)
-<div style="margin-bottom: 2px"> <strong>Tools used:</strong> Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </div>
+<div style="margin-bottom: 2px"> <i></i><strong>Tools used:</strong> Python, XGBoost, Pandas, Matplotlib, geomaps, seaborn </i></div>
 <p align="left">
   <img src="/files/img/average_wait_location_top.png" alt="Image Description" width="300" height="290" style="float:left; margin-right:10px;">
    <strong> Objective: </strong> Use the NYC taxi trip data to maximise the revenue for a taxi company operating in NYC. <br>
