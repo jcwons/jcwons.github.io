@@ -17,7 +17,8 @@
  <strong>Techniques:</strong> Using the extremely large data set with timestamps and geospatial data, I identified busy areas via clustering and engineered the most important feature of wait time. The fare is predicted using XGBoost. <a href="https://jcwons.github.io/github-blogs/2023/11/15/NYC-Taxi-Insights-Unraveling-Patterns-and-Optimization-Strategies.html">Click here to learn more</a>.
 </p>
 
-### **Bayesian Optimisiation for Likelihood Sampling of Cosmological Data**
+### [<span style="color: black;"> Bayesian Optimisiation for Likelihood Sampling</span>](https://arxiv.org/abs/2112.08571)
+### **Bayesian Optimisiation for Likelihood Sampling**
 <div style="margin-bottom: 0"> <em><strong>Tools used:</strong> Bayesian Optimisation, Gaussian Progress Regression, High-Performance Computing, Bayesian Statistics, Fortran, Python, Bash, git </em></div>
 <p align="left">
   <img src="/files/img/BayOp.png" alt="Image Description" width="300" height="300" style="float:left; margin-right:10px;">
