@@ -158,7 +158,7 @@ html { font-family: var(--ff-poppins); }
 /* body { background: var(--white-1); } */
 
 body { 
-  background: url('./assets/images/depositphotos_97606122-stock-photo-aerial-view-of-a-river.jpg') no-repeat center center fixed; 
+  background: url('/jcwons.github.io/assets/images/depositphotos_97606122-stock-photo-aerial-view-of-a-river.jpg') no-repeat center center fixed; 
   background-size: cover;
 }
 
