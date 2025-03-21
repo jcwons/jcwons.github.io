@@ -2,23 +2,17 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Julius Wons
+Julius Wons
+Physicist
 
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
+julius.wons@gmail.com
 
 Location
-Sacramento, California, USA
+Germany
 
 # navbar
 
@@ -93,7 +87,7 @@ Resume
 
 Education
 
-University school of the arts
+Test
 2007 — 2008
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 

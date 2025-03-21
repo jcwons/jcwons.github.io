@@ -26,7 +26,7 @@ const overlay = document.querySelector("[data-overlay]");
 const modalImg = document.querySelector("[data-modal-img]");
 const modalTitle = document.querySelector("[data-modal-title]");
 const modalText = document.querySelector("[data-modal-text]");
-
+ 
 // modal toggle function
 const testimonialsModalFunc = function () {
   modalContainer.classList.toggle("active");
